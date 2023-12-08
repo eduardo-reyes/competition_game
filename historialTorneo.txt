@@ -1,0 +1,222 @@
+
+Candidato 0. Habilidad: 239
+Candidato 1. Habilidad: 352
+Candidato 2. Habilidad: 109
+Candidato 3. Habilidad: 375
+Candidato 4. Habilidad: 395
+Candidato 5. Habilidad: 237
+Candidato 6. Habilidad: 190
+Candidato 7. Habilidad: 200
+Candidato 8. Habilidad: 139
+Candidato 9. Habilidad: 307
+Candidato 10. Habilidad: 261
+Candidato 11. Habilidad: 320
+Candidato 12. Habilidad: 329
+Candidato 13. Habilidad: 298
+Candidato 14. Habilidad: 174
+Candidato 15. Habilidad: 360
+
+
+COMIENZA EL TORNEO
+
+
+=============== RONDA 1 ===============
+Cuotas de la ronda 1
+
+
+Candidato 0. Cuota: 2.472803347280335
+Candidato 1. Cuota: 1.6789772727272727
+Candidato 2. Cuota: 4.440366972477064
+Candidato 3. Cuota: 1.2906666666666666
+Candidato 4. Cuota: 1.6
+Candidato 5. Cuota: 2.6666666666666665
+Candidato 6. Cuota: 2.0526315789473686
+Candidato 7. Cuota: 1.9500000000000002
+Candidato 8. Cuota: 3.20863309352518
+Candidato 9. Cuota: 1.4527687296416938
+Candidato 10. Cuota: 2.2260536398467434
+Candidato 11. Cuota: 1.8156250000000003
+Candidato 12. Cuota: 1.9057750759878418
+Candidato 13. Cuota: 2.1040268456375837
+Candidato 14. Cuota: 3.068965517241379
+Candidato 15. Cuota: 1.4833333333333334
+
+
+##########################################################
+Candidato 0 vs candidato 1
+Cuota candidato: 0: 2.472803347280335
+Cuota candidato: 1: 1.6789772727272727
+Ganó el candidato 1
+Ahora es el candidato 0
+
+
+##########################################################
+Candidato 2 vs candidato 3
+Cuota candidato: 2: 4.440366972477064
+Cuota candidato: 3: 1.2906666666666666
+Ganó el candidato 3
+Ahora es el candidato 1
+
+
+##########################################################
+Candidato 4 vs candidato 5
+Cuota candidato: 4: 1.6
+Cuota candidato: 5: 2.6666666666666665
+Ganó el candidato 5
+Ahora es el candidato 2
+
+
+##########################################################
+Candidato 6 vs candidato 7
+Cuota candidato: 6: 2.0526315789473686
+Cuota candidato: 7: 1.9500000000000002
+Ganó el candidato 7
+Ahora es el candidato 3
+
+
+##########################################################
+Candidato 8 vs candidato 9
+Cuota candidato: 8: 3.20863309352518
+Cuota candidato: 9: 1.4527687296416938
+Ganó el candidato 9
+Ahora es el candidato 4
+
+
+##########################################################
+Candidato 10 vs candidato 11
+Cuota candidato: 10: 2.2260536398467434
+Cuota candidato: 11: 1.8156250000000003
+Ganó el candidato 10
+Ahora es el candidato 5
+
+
+##########################################################
+Candidato 12 vs candidato 13
+Cuota candidato: 12: 1.9057750759878418
+Cuota candidato: 13: 2.1040268456375837
+Ganó el candidato 13
+Ahora es el candidato 6
+
+
+##########################################################
+Candidato 14 vs candidato 15
+Cuota candidato: 14: 3.068965517241379
+Cuota candidato: 15: 1.4833333333333334
+Ganó el candidato 15
+Ahora es el candidato 7
+
+
+=============== RONDA 2 ===============
+Cuotas de la ronda 2
+
+
+Candidato 0. Cuota: 2.065340909090909
+Candidato 1. Cuota: 1.9386666666666668
+Candidato 2. Cuota: 1.8438818565400843
+Candidato 3. Cuota: 2.185
+Candidato 4. Cuota: 1.8501628664495113
+Candidato 5. Cuota: 2.1762452107279695
+Candidato 6. Cuota: 2.208053691275168
+Candidato 7. Cuota: 1.827777777777778
+
+
+##########################################################
+Candidato 0 vs candidato 1
+Cuota candidato: 0: 2.065340909090909
+Cuota candidato: 1: 1.9386666666666668
+Ganó el candidato 0
+Ahora es el candidato 0
+
+
+##########################################################
+Candidato 2 vs candidato 3
+Cuota candidato: 2: 1.8438818565400843
+Cuota candidato: 3: 2.185
+Candidato 0. Habilidad: 352
+Candidato 1. Habilidad: 200
+Candidato 2. Habilidad: 307
+Candidato 3. Habilidad: 298
+Candidato 4. Habilidad: 307
+Candidato 5. Habilidad: 261
+Candidato 6. Habilidad: 298
+Candidato 7. Habilidad: 360
+Candidato 8. Habilidad: 139
+Candidato 9. Habilidad: 307
+Candidato 10. Habilidad: 261
+Candidato 11. Habilidad: 320
+Candidato 12. Habilidad: 329
+Candidato 13. Habilidad: 298
+Candidato 14. Habilidad: 174
+Candidato 15. Habilidad: 360
+
+
+=============== RONDA 2 ===============
+Cuotas de la ronda 2
+
+
+Candidato 0. Cuota: 1.5681818181818183
+Candidato 1. Cuota: 2.76
+Candidato 2. Cuota: 1.9706840390879479
+Candidato 3. Cuota: 2.030201342281879
+Candidato 4. Cuota: 1.8501628664495113
+Candidato 5. Cuota: 2.1762452107279695
+Candidato 6. Cuota: 2.208053691275168
+Candidato 7. Cuota: 1.827777777777778
+
+
+##########################################################
+Candidato 2 vs candidato 3
+Cuota candidato: 2: 1.9706840390879479
+Cuota candidato: 3: 2.030201342281879
+Ganó el candidato 2
+Ahora es el candidato 1
+
+
+##########################################################
+Candidato 4 vs candidato 5
+Cuota candidato: 4: 1.8501628664495113
+Cuota candidato: 5: 2.1762452107279695
+Ganó el candidato 5
+Ahora es el candidato 2
+
+
+##########################################################
+Candidato 6 vs candidato 7
+Cuota candidato: 6: 2.208053691275168
+Cuota candidato: 7: 1.827777777777778
+Candidato 0. Habilidad: 200
+Candidato 1. Habilidad: 307
+Candidato 2. Habilidad: 261
+Candidato 3. Habilidad: 298
+Candidato 4. Habilidad: 307
+Candidato 5. Habilidad: 261
+Candidato 6. Habilidad: 298
+Candidato 7. Habilidad: 360
+Candidato 8. Habilidad: 139
+Candidato 9. Habilidad: 307
+Candidato 10. Habilidad: 261
+Candidato 11. Habilidad: 320
+Candidato 12. Habilidad: 329
+Candidato 13. Habilidad: 298
+Candidato 14. Habilidad: 174
+Candidato 15. Habilidad: 360
+
+
+=============== RONDA 2 ===============
+Cuotas de la ronda 2
+
+
+Candidato 0. Cuota: 2.5349999999999997
+Candidato 1. Cuota: 1.6514657980456027
+Candidato 2. Cuota: 2.1417624521072796
+Candidato 3. Cuota: 1.8758389261744965
+Candidato 4. Cuota: 1.8501628664495113
+Candidato 5. Cuota: 2.1762452107279695
+Candidato 6. Cuota: 2.208053691275168
+Candidato 7. Cuota: 1.827777777777778
+
+
+##########################################################
+Candidato 6 vs candidato 7
+Cuota candidato: 6: 2.208053691275168
+Cuota candidato: 7: 1.827777777777778
